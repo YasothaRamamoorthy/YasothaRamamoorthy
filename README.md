@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studing
+- 🔭 I’m currently pursing UG(Engineering).
 - 🌱 I’m currently learning in Bannari Amman institude of technology
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on IT service company
+- 🤔 I’m looking for help with Data Science
 - 💬 Ask me about data science  and full stack development
 - 📫 How to reach me: yasotha1708@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Yasotha 
+- ⚡ Fun fact: The first programmer was the daughter of a mad poet
 -->

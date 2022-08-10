@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+-->
 - 🔭 I’m currently pursing UG(Engineering).
 - 🌱 I’m currently learning in Bannari Amman institude of technology
 - 👯 I’m looking to collaborate on IT service company
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yasotha1708@gmail.com
 - 😄 Pronouns: Yasotha 
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet
--->

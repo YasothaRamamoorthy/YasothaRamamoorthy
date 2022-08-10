@@ -70,9 +70,9 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/ManojT
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yasotha Ramamoortthy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yasotha Ramamoortthy's GitHub Stats" />
 </a>
 <a href="https://github.com/YasothaRamamoorthy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojTGN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasothaRamamoorthy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <!--
-![Yasotha Ramamoortthy's github stats](https://github-readme-stats.vercel.app/api?username=Yasotha Ramamoortthy&count_private=true&show_icons=true&theme=dark&hide_border=false)
+![Yasotha Ramamoortthy's github stats](https://github-readme-stats.vercel.app/api?username=YasothaRamamoorthy&count_private=true&show_icons=true&theme=dark&hide_border=false)
 !-->

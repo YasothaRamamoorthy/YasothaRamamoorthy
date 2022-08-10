@@ -68,12 +68,12 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/ManojT
 <h2> 💪 My Github Stats </h2>
 
 <a href="https://github.com/YasothaRamamoorthy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ManojTGN&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ManojTGN's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yasotha Ramamoortthy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yasotha Ramamoortthy's GitHub Stats" />
 </a>
 <a href="https://github.com/YasothaRamamoorthy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojTGN&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <!--
-![ManojTGN's github stats](https://github-readme-stats.vercel.app/api?username=Yasotha Ramamoortthy&count_private=true&show_icons=true&theme=dark&hide_border=false)
+![Yasotha Ramamoortthy's github stats](https://github-readme-stats.vercel.app/api?username=Yasotha Ramamoortthy&count_private=true&show_icons=true&theme=dark&hide_border=false)
 !-->

@@ -1,9 +1,8 @@
-### Hi there 👋
-
 <!--
 **YasothaRamamoorthy/YasothaRamamoorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently pursing UG(Engineering).
 - 🌱 I’m currently learning in Bannari Amman institude of technology
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: yasotha1708@gmail.com
 - 😄 Pronouns: Yasotha 
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet
--->
+
 <h2> Hi, I'm Yasotha R! <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yasotha Ramamoorthy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasotha-r)](https://www.linkedin.com/in/yasotha-r)

@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 <h2> Hi, I'm Yasotha R! <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yasotha Ramamoorthy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasotha-r)](https://www.linkedin.com/in/yasotha-r)
+[![Linkedin Badge](https://img.shields.io/badge/-YasothaRamamoorthy-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasotha-r)](https://www.linkedin.com/in/yasotha-r)
+
 [![Instagram Badge](https://img.shields.io/badge/-@_.yasotha._-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_m4n0j_/)](https://www.instagram.com/_.yasotha._/)
 
 

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/-@_.yasotha._-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_m4n0j_/)](https://www.instagram.com/_.yasotha._/)
 
 
-Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/ManojTGN), I am interested in Ai & ML and also intrested on web development. Thanks for visiting and I'd love to [connect](www.linkedin.com/in/yasotha-r)!
+Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/YasothaRamamoorthy), I am interested in Ai & ML and also intrested on web development. Thanks for visiting and I'd love to [connect](www.linkedin.com/in/yasotha-r)!
 
 
 <h2> 🛠️ My favorite tools </h2>

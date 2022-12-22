@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursing UG(Engineering).
 - 🌱 I’m currently learning in Bannari Amman institude of technology
-- 👯 I’m looking to collaborate on IT service company
+- 👯 I’m looking to collaborate on IT sector
 - 🤔 I’m looking for help with Data Science
 - 💬 Ask me about data science  and full stack development
 - 📫 How to reach me: yasotha1708@gmail.com

@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently pursing UG(Engineering).
 - 🌱 I’m currently learning in Bannari Amman institude of technology
 - 👯 I’m looking to collaborate on IT sector
-- 🤔 I’m looking for help with Data Science
+- 🤔 I’m looking for help with full stack development
 - 💬 Ask me about data science  and full stack development
 - 📫 How to reach me: yasotha1708@gmail.com
-- 😄 Pronouns: Yasotha 
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: The first programmer was the daughter of a mad poet
 
 <h2> Hi, I'm Yasotha R! <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50"></h2>

@@ -69,7 +69,7 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/Yasoth
 <h2> 💪 My Github Stats </h2>
 
 <a href="https://github.com/YasothaRamamoorthy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yasotha Ramamoorthy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yasotha Ramamoorthy GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YasothaRamamoorthy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yasotha Ramamoorthy GitHub Stats" />
     
     
 <a href="https://github.com/YasothaRamamoorthy">

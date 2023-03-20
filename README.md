@@ -73,7 +73,7 @@ Welcome to my profile! I'm a student, aspiring [Coder](https://github.com/Yasoth
     
     
 <a href="https://github.com/YasothaRamamoorthy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasothaRamamoorthy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=html,css,scss" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasothaRamamoorthy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&hide=html,css,scss,python" />
 </a>
 
 <!-- [Yasotha Ramamoortthy's github stats](https://github-readme-stats.vercel.app/api?username=YasothaRamamoorthy&count_private=true&show_icons=true&theme=dark&hide_border=false) -->
